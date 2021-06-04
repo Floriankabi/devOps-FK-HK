@@ -8,6 +8,8 @@
     <input type="checkbox" name="author" value="Tan Ah Teck">Tan
     <input type="checkbox" name="author" value="Mohd Ali">Ali
     <input type="checkbox" name="author" value="Kumar">Kumar
+	<input type="checkbox" name="author" value="Hanna">Hanna
+
     <input type="submit" value="Query">
   </form>
  
